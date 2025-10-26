@@ -1,0 +1,9 @@
+[submodule "interface"]
+	path = interface
+	url = https://github.com/rays8417/interface.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rays8417/backend.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/rays8417/contracts.git
